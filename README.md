@@ -71,3 +71,6 @@ You can now access the server at http://localhost:8000
     GOOGLE_BOOKS_API_KEY=api_key
 
 
+![Home Page](screenshots/home.png)
+
+
